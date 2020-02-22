@@ -7,3 +7,5 @@ aaa
 feature1
 master
 commit
+stash 
+bug
